@@ -1,0 +1,379 @@
+Country ,Authority Type,Authority Name ,AnalysisType-Microbiologicalcontamination,AnalysisType-Othercontamination,AnalysisType-Composition,AnalysisType-Labellingandpresentation,AnalysisType-Others,Totalnumberofsamplestaken
+England ,County Council,Buckinghamshire and Surrey,2,25,238,273,0,315
+England ,County Council,Cambridgeshire,1,3,34,21,0,39
+England ,County Council,Cumbria ,0,0,92,12,0,104
+England ,County Council,Derbyshire,0,0,49,32,0,49
+England ,County Council,"Devon, Somerset and Torbay",4,25,116,39,11,158
+England ,County Council,Dorset,0,2,38,22,0,44
+England ,County Council,East Sussex,0,0,122,72,0,124
+England ,County Council,Essex,13,17,112,73,1,209
+England ,County Council,Gloucestershire,0,0,4,0,0,4
+England ,County Council,Hampshire,0,5,13,25,0,26
+England ,County Council,Hertfordshire,5,5,99,318,46,376
+England ,County Council,Kent,0,66,305,350,0,350
+England ,County Council,Lancashire,0,0,298,0,0,298
+England ,County Council,Leicestershire,0,25,23,21,1,70
+England ,County Council,Lincolnshire,0,0,110,1,0,111
+England ,County Council,Norfolk ,2,25,115,104,3,153
+England ,County Council,North Yorkshire ,0,0,28,0,0,28
+England ,County Council,Northamptonshire,0,4,14,79,0,88
+England ,County Council,Nottinghamshire ,1,7,22,4,2,29
+England ,County Council,Oxfordshire,13,1,2,14,1,15
+England ,County Council,Staffordshire,0,0,0,32,0,32
+England ,County Council,Suffolk ,6,22,114,62,3,147
+England ,County Council,Warwickshire,0,0,18,4,0,18
+England ,County Council,West Sussex,2,13,39,36,0,64
+England ,County Council,Worcestershire ,0,0,42,3,0,45
+England,District Council,Adur & Worthing ,6,0,0,0,0,6
+England,District Council,Allerdale,52,0,0,0,0,52
+England,District Council,Amber Valley,24,0,0,0,13,24
+England,District Council,Arun,69,0,0,0,0,69
+England,District Council,Ashfield,0,0,0,0,0,0
+England,District Council,Ashford,176,0,0,0,0,176
+England,District Council,Aylesbury Vale,33,0,0,0,0,33
+England,District Council,Babergh and Mid Suffolk,50,0,0,0,0,50
+England,District Council,Barrow-in-Furness,20,0,0,0,0,20
+England,District Council,Basildon,39,0,0,0,0,39
+England,District Council,Basingstoke & Deane,18,0,0,2,0,20
+England,District Council,Bassetlaw,121,0,0,0,0,121
+England,District Council,Blaby,7,0,0,0,0,7
+England,District Council,Bolsover,75,0,0,0,0,75
+England,District Council,Boston,31,0,0,0,0,31
+England,District Council,Braintree,32,0,0,0,0,32
+England,District Council,Breckland ,79,0,0,0,0,79
+England,District Council,Brentwood,94,1,0,0,0,95
+England,District Council,Broadland ,237,0,0,0,0,237
+England,District Council,Bromsgrove,40,0,0,0,0,40
+England,District Council,Broxbourne ? ,,,,,,
+England,District Council,Broxtowe,93,0,0,0,0,93
+England,District Council,Burnley,8,0,0,0,0,8
+England,District Council,Cambridge City,60,0,0,0,0,60
+England,District Council,Cannock Chase,20,0,0,0,0,20
+England,District Council,Canterbury City,43,0,0,0,0,43
+England,District Council,Carlisle City,75,0,0,0,0,75
+England,District Council,Castle Point,6,0,0,0,0,6
+England,District Council,Charnwood,0,0,0,0,0,0
+England,District Council,Chelmsford,6,0,0,0,0,6
+England,District Council,Cheltenham,12,0,0,0,0,12
+England,District Council,Cherwell,103,2,0,0,0,105
+England,District Council,Chesterfield ,38,0,0,0,0,38
+England,District Council,Chichester,133,0,0,0,0,133
+England,District Council,Chiltern,32,0,0,0,0,32
+England,District Council,Chorley ?  ,,,,,,
+England,District Council,Colchester,56,0,0,0,0,56
+England,District Council,Copeland,66,0,0,0,0,66
+England,District Council,Corby,187,0,0,0,0,187
+England,District Council,Cotswold,49,0,0,0,0,49
+England,District Council,Craven ,57,0,0,0,0,57
+England,District Council,Crawley ,8,0,0,0,0,8
+England,District Council,Dacorum,0,0,0,0,0,0
+England,District Council,Dartford,25,0,0,0,0,25
+England,District Council,Daventry ,45,0,0,0,0,45
+England,District Council,Derbyshire Dales,123,0,0,0,0,123
+England,District Council,Dover,40,0,0,0,0,40
+England,District Council,East Cambridgeshire,42,0,0,0,0,42
+England,District Council,East Devon,328,0,0,0,0,328
+England,District Council,East Dorset (1),45,0,0,0,0,45
+England,District Council,East Hampshire,20,0,0,0,0,20
+England,District Council,East Hertfordshire ? ,,,,,,
+England,District Council,East Lindsey ,26,9,0,9,0,26
+England,District Council,East Northamptonshire,97,0,0,0,0,97
+England,District Council,East Staffordshire ,42,0,0,0,0,42
+England,District Council,East Suffolk,53,0,0,0,0,53
+England,District Council,Eastbourne,7,0,0,0,0,7
+England,District Council,Eastleigh,13,0,0,0,0,13
+England,District Council,Eden,198,0,0,0,0,198
+England,District Council,Elmbridge,19,0,0,0,0,19
+England,District Council,Epping Forest,19,0,0,0,0,19
+England,District Council,Epsom and Ewell,5,0,0,0,0,5
+England,District Council,Erewash,15,0,0,0,0,15
+England,District Council,Exeter City,72,0,0,0,0,72
+England,District Council,Fareham,42,0,0,0,0,42
+England,District Council,Fenland,33,0,0,0,0,33
+England,District Council,Folkestone & Hythe,181,0,0,0,0,181
+England,District Council,Forest of Dean ,26,6,0,0,0,32
+England,District Council,Fylde,39,0,0,0,0,39
+England,District Council,Gedling,42,0,0,0,0,42
+England,District Council,Gloucester City,22,0,0,0,0,22
+England,District Council,Gosport,35,0,0,1,0,36
+England,District Council,Gravesham,106,0,0,0,0,106
+England,District Council,Great Yarmouth ,23,0,0,0,0,23
+England,District Council,Guildford,38,0,0,0,0,38
+England,District Council,Hambleton,9,0,0,0,0,9
+England,District Council,Harborough,48,0,0,0,0,48
+England,District Council,Harlow,134,0,0,0,0,134
+England,District Council,Harrogate,284,0,0,0,0,284
+England,District Council,Hart ,55,0,0,0,0,55
+England,District Council,Hastings,34,0,0,0,0,34
+England,District Council,Havant,17,0,0,0,0,17
+England,District Council,Hertsmere,10,0,0,0,0,10
+England,District Council,High Peak,32,0,0,0,0,32
+England,District Council,Hinckley & Bosworth,263,0,0,0,0,263
+England,District Council,Horsham,17,0,0,0,0,17
+England,District Council,Huntingdonshire,0,0,0,0,0,0
+England,District Council,Hyndburn ? ,,,,,,
+England,District Council,Ipswich ,0,0,0,0,0,0
+England,District Council,Kettering,0,0,0,0,0,0
+England,District Council,King's Lynn & West Norfolk,126,0,0,0,0,126
+England,District Council,Lancaster City,134,41,10,10,2,164
+England,District Council,Lewes,32,0,0,0,0,32
+England,District Council,Lichfield,106,0,0,0,0,106
+England,District Council,Lincoln City,68,0,0,0,0,68
+England,District Council,Maidstone,42,0,0,0,0,42
+England,District Council,Maldon,25,0,0,0,0,25
+England,District Council,Malvern Hills,4,0,0,0,0,4
+England,District Council,Mansfield ,269,0,0,0,0,269
+England,District Council,Melton ,192,0,0,0,0,192
+England,District Council,Mendip ,73,0,0,0,0,73
+England,District Council,Mid Devon,108,0,0,0,0,108
+England,District Council,Mid Sussex,46,0,0,0,0,46
+England,District Council,Mole Valley,0,4,4,4,0,4
+England,District Council,New Forest,170,0,0,0,0,170
+England,District Council,Newark & Sherwood,6,0,0,0,0,6
+England,District Council,Newcastle-Under-Lyme ,99,0,0,0,0,99
+England,District Council,North Devon,66,0,0,0,0,66
+England,District Council,North Dorset (1),126,0,0,0,0,126
+England,District Council,North East Derbyshire,48,0,0,0,0,48
+England,District Council,North Hertforshire,52,0,0,0,0,52
+England,District Council,North Kesteven,7,0,0,0,0,7
+England,District Council,North Norfolk,160,0,0,0,0,160
+England,District Council,North Warwickshire,0,0,0,0,0,0
+England,District Council,North West Leicestershire,22,0,0,0,0,22
+England,District Council,Northampton,0,0,0,0,4,4
+England,District Council,Norwich City,86,0,3,0,0,86
+England,District Council,Nuneaton & Bedworth,0,0,0,0,0,0
+England,District Council,Oadby & Wigston,0,0,0,0,0,0
+England,District Council,Oxford City,4,0,0,0,0,4
+England,District Council,Pendle,6,0,0,0,0,6
+England,District Council,Preston,5,2,0,0,0,7
+England,District Council,Purbeck (1),41,0,0,0,0,41
+England,District Council,Redditch,0,0,0,0,0,0
+England,District Council,Reigate & Banstead,23,0,0,0,0,23
+England,District Council,Ribble Valley,32,0,0,0,0,32
+England,District Council,Richmondshire,176,0,0,0,0,176
+England,District Council,Rochford,8,0,0,0,0,8
+England,District Council,Rossendale,0,0,0,0,0,0
+England,District Council,Rother and Wealden,142,0,0,0,0,142
+England,District Council,Rugby,21,0,0,0,0,21
+England,District Council,Runnymede,0,0,0,0,0,0
+England,District Council,Rushcliffe ,150,0,0,0,0,150
+England,District Council,Rushmoor ,55,0,0,0,0,55
+England,District Council,Ryedale ,9,0,0,0,0,9
+England,District Council,Scarborough,0,0,0,0,0,0
+England,District Council,Sedgemoor,29,0,0,0,0,29
+England,District Council,Selby,29,0,0,0,0,29
+England,District Council,Sevenoaks,97,0,0,0,0,97
+England,District Council,Somerset West and Taunton ,0,0,0,0,0,0
+England,District Council,South Buckinghamshire,37,0,0,0,0,37
+England,District Council,South Cambridgshire,0,0,0,0,0,0
+England,District Council,South Derbyshire,77,0,0,0,0,77
+England,District Council,South Hams,20,0,0,0,0,20
+England,District Council,South Holland,20,0,0,0,0,20
+England,District Council,South Kesteven,43,0,0,0,0,43
+England,District Council,South Lakeland,7,0,0,0,0,7
+England,District Council,South Norfolk ,0,0,0,0,0,0
+England,District Council,South Northamptonshire,55,0,0,0,0,55
+England,District Council,South Oxfordshire,55,0,0,0,0,55
+England,District Council,South Ribble,14,5,0,0,0,15
+England,District Council,South Somerset,163,0,0,0,0,163
+England,District Council,South Staffordshire ,58,0,0,0,0,58
+England,District Council,Spelthorne,13,0,0,0,0,13
+England,District Council,St Albans City,14,0,0,0,0,14
+England,District Council,Stafford ,45,0,0,0,0,45
+England,District Council,Staffordshire Moorlands,198,0,0,0,0,198
+England,District Council,Stevenage,59,0,0,0,0,59
+England,District Council,Stratford-on-Avon,175,0,0,0,0,175
+England,District Council,Stroud,92,0,0,0,0,92
+England,District Council,Surrey Heath,72,30,11,11,11,72
+England,District Council,Swale,76,1,0,0,0,77
+England,District Council,Tamworth ? ,,,,,,
+England,District Council,Tandridge,7,0,0,0,0,7
+England,District Council,Teignbridge,120,0,0,0,0,120
+England,District Council,Tendring ,7,0,0,0,0,7
+England,District Council,Test Valley,158,0,0,0,0,158
+England,District Council,Tewksbury ,66,0,0,0,0,66
+England,District Council,Thanet,12,0,0,0,0,12
+England,District Council,Three Rivers,8,0,0,0,0,8
+England,District Council,Tonbridge & Malling,153,0,0,0,0,153
+England,District Council,Torridge,78,0,0,0,0,78
+England,District Council,Tunbridge Wells,224,0,0,0,0,224
+England,District Council,Uttlesford,0,0,0,0,0,0
+England,District Council,Vale of White Horse,64,2,0,0,0,66
+England,District Council,Warwick,92,0,0,0,0,92
+England,District Council,Watford ,78,0,0,0,0,78
+England,District Council,Waverley,17,0,0,0,0,17
+England,District Council,Wellingborough,175,0,0,0,0,175
+England,District Council,Welwyn Hatfield ,38,0,0,0,0,38
+England,District Council,West Devon,10,0,0,0,0,10
+England,District Council,West Dorset (1),89,0,0,0,0,89
+England,District Council,West Lancashire,12,0,0,0,0,12
+England,District Council,West Lindsey,37,0,0,0,0,37
+England,District Council,West Oxfordshire,12,0,0,0,2,14
+England,District Council,West Suffolk,66,0,0,0,0,66
+England,District Council,Weymouth & Portland (1),9,0,0,0,0,9
+England,District Council,Winchester City,13,0,0,0,0,13
+England,District Council,Woking ,37,0,0,0,0,37
+England,District Council,Worcester City,2,0,0,0,0,2
+England,District Council,Wychavon,2,0,0,0,0,2
+England,District Council,Wycombe,105,0,0,0,0,105
+England,District Council,Wyre,49,0,0,0,0,49
+England,District Council,Wyre Forest,31,0,0,0,0,31
+England,London Borough,Barking & Dagenham,10,0,0,0,0,10
+England,London Borough,Barnet,107,16,23,7,0,149
+England,London Borough,Bexley,1,1,1,0,0,2
+England,London Borough,Brent,47,0,0,0,0,47
+England,London Borough,Bromley,19,0,18,1,0,38
+England,London Borough,Camden,17,0,4,3,0,24
+England,London Borough,City of London Corporation ,28,0,17,14,0,59
+England,London Borough,Croydon,32,0,0,0,0,32
+England,London Borough,Ealing,24,0,7,0,0,31
+England,London Borough,Enfield,24,0,0,0,0,24
+England,London Borough,Greenwich,39,0,10,4,0,52
+England,London Borough,Hackney,220,55,31,14,0,320
+England,London Borough,Hammersmith & Fulham,22,15,5,6,2,48
+England,London Borough,Haringey,23,0,0,0,0,23
+England,London Borough,Harrow,35,0,18,2,0,55
+England,London Borough,Havering,7,0,0,12,0,19
+England,London Borough,Hillingdon,89,0,0,0,0,89
+England,London Borough,Hounslow,3,2,0,0,0,5
+England,London Borough,Islington ,4,0,0,2,0,6
+England,London Borough,Kensington & Chelsea,32,7,15,15,10,74
+England,London Borough,Kingston-Upon-Thames,14,0,0,5,0,19
+England,London Borough,Lambeth,118,0,10,8,0,136
+England,London Borough,Lewisham,4,0,1,4,0,9
+England,London Borough,Merton,23,1,5,6,0,34
+England,London Borough,Newham,24,14,0,11,0,44
+England,London Borough,Redbridge,18,0,2,0,0,20
+England,London Borough,Richmond-Upon-Thames,17,4,1,0,0,22
+England,London Borough,Southwark,15,0,27,9,0,51
+England,London Borough,Sutton,4,0,0,0,0,4
+England,London Borough,Tower Hamlets,5,0,0,5,0,10
+England,London Borough,Waltham Forest,5,0,0,0,0,5
+England,London Borough,Wandsworth,38,0,7,1,0,46
+England,London Borough,Westminster,35,0,0,0,0,35
+England,Metropolitan Borough Council,Barnsley,229,0,48,10,0,283
+England,Metropolitan Borough Council,Birmingham,47,11,31,26,0,103
+England,Metropolitan Borough Council,Bolton,56,0,2,0,0,58
+England,Metropolitan Borough Council,Bradford (2),410,0,0,0,0,410
+England,Metropolitan Borough Council,Bury,0,0,10,0,0,10
+England,Metropolitan Borough Council,Calderdale (2),77,0,0,0,0,77
+England,Metropolitan Borough Council,Coventry,72,1,19,0,0,91
+England,Metropolitan Borough Council,Doncaster,335,0,47,0,0,382
+England,Metropolitan Borough Council,Dudley,279,17,1,0,2,299
+England,Metropolitan Borough Council,Gateshead,1502,0,87,21,0,1589
+England,Metropolitan Borough Council,Kirklees (2),1103,0,0,0,0,1103
+England,Metropolitan Borough Council,Knowsley,9,19,5,0,0,28
+England,Metropolitan Borough Council,Leeds (2),119,0,0,0,0,119
+England,Metropolitan Borough Council,Liverpool,15,0,0,0,0,15
+England,Metropolitan Borough Council,Manchester ,144,34,12,5,0,191
+England,Metropolitan Borough Council,Newcastle Upon Tyne,188,0,1,0,1,190
+England,Metropolitan Borough Council,North Tyneside,573,0,0,0,13,586
+England,Metropolitan Borough Council,Oldham,156,0,11,4,0,168
+England,Metropolitan Borough Council,Rochdale ,160,0,31,2,0,193
+England,Metropolitan Borough Council,Rotherham,88,0,12,14,0,103
+England,Metropolitan Borough Council,Salford,143,0,12,4,0,159
+England,Metropolitan Borough Council,Sandwell,143,4,14,40,0,201
+England,Metropolitan Borough Council,Sefton,214,21,20,4,0,259
+England,Metropolitan Borough Council,Sheffield,139,3,4,5,0,146
+England,Metropolitan Borough Council,Solihull,42,1,1,0,0,44
+England,Metropolitan Borough Council,South Tyneside,69,0,26,0,2,97
+England,Metropolitan Borough Council,St Helens ,28,0,0,10,0,38
+England,Metropolitan Borough Council,Stockport,5,4,6,2,0,17
+England,Metropolitan Borough Council,Sunderland,19,0,0,0,0,19
+England,Metropolitan Borough Council,Tameside,0,0,0,0,0,0
+England,Metropolitan Borough Council,Trafford,24,2,8,2,0,36
+England,Metropolitan Borough Council,Wakefield (2),89,0,0,0,0,89
+England,Metropolitan Borough Council,Walsall,32,2,67,0,0,99
+England,Metropolitan Borough Council,West Yorkshire (3),0,0,92,93,0,98
+England,Metropolitan Borough Council,Wigan,288,0,3,0,0,291
+England,Metropolitan Borough Council,Wirral,117,0,25,0,0,142
+England,Metropolitan Borough Council,Wolverhampton ,152,0,0,0,0,152
+England,Unitary Authority,Bath & North East Somerset,64,0,67,27,21,179
+England,Unitary Authority,Bedford ,50,0,5,0,0,55
+England,Unitary Authority,Blackburn ,26,9,5,1,0,40
+England,Unitary Authority,Blackpool,0,0,1,0,0,1
+England,Unitary Authority,Bournemouth and Christchurch (5),10,0,17,11,0,21
+England,Unitary Authority,Bracknell Forest,17,0,0,0,0,17
+England,Unitary Authority,Brighton & Hove ,65,18,0,6,2,91
+England,Unitary Authority,Bristol,239,4,3,0,0,246
+England,Unitary Authority,Central Bedfordshire ,81,0,0,0,0,81
+England,Unitary Authority,Cheshire East,105,0,4,11,0,120
+England,Unitary Authority,Cheshire West and Chester ,67,18,29,0,0,113
+England,Unitary Authority,Cornwall ,342,0,74,0,0,416
+England,Unitary Authority,Darlington,92,0,0,10,0,102
+England,Unitary Authority,Derby City,9,0,28,28,0,65
+England,Unitary Authority,Durham ,230,11,39,10,1,291
+England,Unitary Authority,East Riding of Yorkshire ,697,20,72,33,3,782
+England,Unitary Authority,Halton,150,1,8,0,1,160
+England,Unitary Authority,Hartlepool,138,0,23,0,0,161
+England,Unitary Authority,Herefordshire,115,0,9,8,1,124
+England,Unitary Authority,Hull City,46,0,75,5,0,122
+England,Unitary Authority,Isle of Wight,259,6,12,1,0,278
+England,Unitary Authority,Isles of Scilly,14,0,0,0,0,14
+England,Unitary Authority,Leicester City ,265,0,0,0,0,265
+England,Unitary Authority,Luton,70,0,0,0,14,84
+England,Unitary Authority,Medway,72,0,25,13,0,110
+England,Unitary Authority,Middlesborough,63,8,2,0,0,73
+England,Unitary Authority,Milton Keynes,0,0,0,1,0,1
+England,Unitary Authority,North East Lincolnshire,68,0,11,0,0,79
+England,Unitary Authority,North Lincolnshire ,190,8,6,11,6,197
+England,Unitary Authority,North Somerset,77,1,1,2,0,81
+England,Unitary Authority,Northumberland ,48,5,36,26,1,86
+England,Unitary Authority,Nottingham City,68,0,8,10,8,86
+England,Unitary Authority,Peterborough City,17,0,12,0,0,29
+England,Unitary Authority,Plymouth City ,335,5,0,2,0,342
+England,Unitary Authority,Poole (5),62,4,1,4,0,71
+England,Unitary Authority,Portsmouth,108,0,0,0,0,108
+England,Unitary Authority,Reading,140,0,23,17,0,165
+England,Unitary Authority,Redcar and Cleveland ,43,4,5,0,0,52
+England,Unitary Authority,Rutland,19,0,0,0,0,19
+England,Unitary Authority,Shropshire ,85,1,0,0,1,87
+England,Unitary Authority,Slough,72,0,6,0,0,78
+England,Unitary Authority,South Gloucestershire,33,0,0,0,0,33
+England,Unitary Authority,Southampton,39,0,11,0,0,50
+England,Unitary Authority,Southend-On-Sea,202,0,42,0,0,244
+England,Unitary Authority,Stockton on Tees ,785,2,4,0,0,791
+England,Unitary Authority,Stoke-On-Trent,53,0,3,0,0,56
+England,Unitary Authority,Swindon ,52,0,1,0,0,53
+England,Unitary Authority,Telford and Wrekin ,30,0,7,11,0,48
+England,Unitary Authority,Thurrock,127,10,2,10,0,137
+England,Unitary Authority,Torbay (4),35,0,0,0,0,35
+England,Unitary Authority,Warrington,158,0,10,2,0,168
+England,Unitary Authority,West Berkshire,43,0,0,0,0,43
+England,Unitary Authority,Wiltshire ,81,57,49,46,0,233
+England,Unitary Authority,Windsor & Maidenhead,0,0,0,10,0,10
+England,Unitary Authority,Wokingham,15,2,0,0,0,17
+England,Unitary Authority,York,47,20,12,1,1,81
+Northern Ireland,NI Unitary Authority,Antrim and Newtownabbey,548,0,62,37,0,629
+Northern Ireland,NI Unitary Authority,Ards and North Down ,613,6,230,168,0,1017
+Northern Ireland,NI Unitary Authority,Armagh City Banbridge and Craigavon,646,0,295,0,0,939
+Northern Ireland,NI Unitary Authority,Belfast City,1039,19,197,126,3,1309
+Northern Ireland,NI Unitary Authority,Causeway Coast and Glens,492,0,191,179,23,713
+Northern Ireland,NI Unitary Authority,Derry City and Strabane,413,0,83,0,0,413
+Northern Ireland,NI Unitary Authority,Fermanagh and Omagh,314,0,166,173,0,501
+Northern Ireland,NI Unitary Authority,Lisburn and Castlereagh City,504,0,166,158,0,828
+Northern Ireland,NI Unitary Authority,Mid and East Antrim,562,0,145,50,0,707
+Northern Ireland,NI Unitary Authority,Mid Ulster ,412,0,175,173,0,587
+Northern Ireland,NI Unitary Authority,"Newry, Mourne and Down",673,0,97,110,0,873
+Wales,Welsh Unitary Authority,Anglesey,81,1,15,7,0,96
+Wales,Welsh Unitary Authority,Blaenau Gwent,153,6,21,23,0,178
+Wales,Welsh Unitary Authority,Bridgend,30,0,10,4,0,40
+Wales,Welsh Unitary Authority,Caerphilly,475,0,22,18,1,498
+Wales,Welsh Unitary Authority,Cardiff ,459,0,47,6,0,512
+Wales,Welsh Unitary Authority,Carmarthenshire,67,0,0,0,0,67
+Wales,Welsh Unitary Authority,Ceredigion,183,0,27,0,3,213
+Wales,Welsh Unitary Authority,Conwy,129,0,56,4,0,185
+Wales,Welsh Unitary Authority,Denbighshire,134,0,2,0,0,135
+Wales,Welsh Unitary Authority,Flintshire,81,0,25,20,0,106
+Wales,Welsh Unitary Authority,Gwynedd,202,5,0,0,6,213
+Wales,Welsh Unitary Authority,Merthyr Tydfil,40,0,5,5,10,55
+Wales,Welsh Unitary Authority,Monmouthshire,264,0,0,0,0,264
+Wales,Welsh Unitary Authority,Neath Port Talbot,235,0,7,57,0,299
+Wales,Welsh Unitary Authority,Newport,8,1,8,0,0,17
+Wales,Welsh Unitary Authority,Pembrokeshire,135,0,42,39,0,178
+Wales,Welsh Unitary Authority,Powys,489,19,63,60,0,571
+Wales,Welsh Unitary Authority,Rhondda Cynon Taf,262,13,62,0,0,337
+Wales,Welsh Unitary Authority,Swansea,26,0,10,30,0,66
+Wales,Welsh Unitary Authority,Torfaen,176,0,29,19,0,210
+Wales,Welsh Unitary Authority,Vale of Glamorgan,26,0,5,0,0,31
+Wales,Welsh Unitary Authority,Wrexham,105,0,9,4,0,114
